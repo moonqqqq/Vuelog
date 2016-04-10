@@ -313,7 +313,8 @@ a.button {
   margin: 0 auto;
   padding: 0 30px; }
   .content .content-wrap {
-    flex: 1; }
+    flex: 1;
+    padding: 0 30px; }
   .content .content-body {
     padding: 1em 0 2em; }
   .content a {
