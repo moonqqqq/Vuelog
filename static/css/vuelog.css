@@ -324,8 +324,7 @@ a.button {
     color: #fff;
     font-size: 0.9em; }
   .content .post-title,
-  .content .post-title a,
-  .content .post-meta a {
+  .content .post-title a {
     color: #34495e; }
   .content .post-title a:hover {
     border-bottom: 2px solid #42b983; }
